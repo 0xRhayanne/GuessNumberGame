@@ -55,7 +55,7 @@ function handleGuess() {
         submitBtn.disabled = true;
 
         // 👉 FRONTEND INTEGRATION: send score to backend
-        fetch("http://localhost:4000/score", {
+        fetch("https://guessnumbergame-feqq.onrender.com", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ player: "Anonymous", attempts })
@@ -65,7 +65,7 @@ function handleGuess() {
         .catch(err => console.error("Error saving score:", err));
 
         // 👉 Optionally fetch leaderboard right after
-        fetch("http://localhost:4000/leaderboard")
+        fetch("https://guessnumbergame-feqq.onrender.com")
           .then(res => res.json())
           .then(data => {
               const leaderboardDiv = document.getElementById("leaderboard");
@@ -92,3 +92,4 @@ document.getElementById("resetBtn").addEventListener("click", startNewGame);
 
 // Start game initially
 startNewGame();
+
