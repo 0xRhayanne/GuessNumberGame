@@ -5,3 +5,11 @@
 ![Backend: Render](https://img.shields.io/badge/Backend-Render-purple?logo=render)
 ![Database: MongoDB Atlas](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)
 ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
+## 🚀 Live Demo
+- **Frontend (Netlify):** https://guessnumbergamegui.netlify.app 
+- **Backend (Render):** https://guessnumbergame-feqq.onrender.com  
+
+---
