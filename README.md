@@ -13,3 +13,23 @@
 - **Backend (Render):** https://guessnumbergame-feqq.onrender.com  
 
 ---
+
+## 📂 Project Structure
+```
+GuessNumberGame/
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── images/
+│       ├── background.jpeg
+│       └── dance.gif
+│
+├── backend/
+│   ├── .env
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── server.js
+│   └── node_modules/
+```
