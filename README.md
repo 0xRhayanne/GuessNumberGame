@@ -33,3 +33,16 @@ GuessNumberGame/
 │   ├── server.js
 │   └── node_modules/
 ```
+---
+
+## 🕹️ How to Play
+1. Guess a number between **1 and 100**.  
+2. Type your guess and press **Enter** or click the **Submit** button.  
+3. You’ll see feedback:
+   - **(⊙_⊙) Too high! Try again.** → try a smaller number.  
+   - **(╥ω╥) Too low! Try again.** → try a bigger number.  
+   - **Invalid input** → only numbers are allowed!  
+4. You have **5 attempts per screen**. If you don’t guess correctly, the screen resets and you can keep trying.  
+5. 🎉 When you guess correctly, you’ll see a **congratulations message** and a fun **dance GIF** in the center of the screen.
+
+---
