@@ -46,3 +46,5 @@ GuessNumberGame/
 5. 🎉 When you guess correctly, you’ll see a **congratulations message** and a fun **dance GIF** in the center of the screen.
 
 ---
+## 🛠 Tech Stack
+
