@@ -48,3 +48,5 @@ GuessNumberGame/
 ---
 ## 🛠 Tech Stack
 
+- **Frontend:** HTML, CSS, JavaScript ;
+
