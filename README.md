@@ -50,4 +50,4 @@ GuessNumberGame/
 
 - **Frontend:** HTML, CSS, JavaScript;
 - **Backend:** Node.js, Express;
-
+- **Database:** MongoDB Atlas; 
