@@ -51,3 +51,4 @@ GuessNumberGame/
 - **Frontend:** HTML, CSS, JavaScript;
 - **Backend:** Node.js, Express;
 - **Database:** MongoDB Atlas; 
+- **Hosting:** Netlify (frontend), Render (backend)
