@@ -55,3 +55,5 @@ GuessNumberGame/
 
 ---
 ## ⚙️ Running Locally
+
+- Clone the repo:
