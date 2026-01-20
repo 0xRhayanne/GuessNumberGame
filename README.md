@@ -57,3 +57,6 @@ GuessNumberGame/
 ## ⚙️ Running Locally
 
 - Clone the repo:
+```bash
+git clone https://github.com/0xRhayanne/GuessNumberGame.git
+cd GuessNumberGame
