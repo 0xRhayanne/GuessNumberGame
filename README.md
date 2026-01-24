@@ -71,3 +71,6 @@ npm start
 Frontend
 
 Simply open ```frontend/index.html``` in your browser.
+
+Play the game 🎉, Enter guesses, get feedback, and celebrate with the dance GIF when you win!
+
