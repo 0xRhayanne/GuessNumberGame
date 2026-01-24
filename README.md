@@ -69,4 +69,5 @@ npm start
 ```
 
 Frontend
+
 Simply open ```frontend/index.html``` in your browser.
