@@ -57,12 +57,16 @@ GuessNumberGame/
 ## ⚙️ Running Locally
 
 - Clone the repo:
-```bash
+```
 git clone https://github.com/0xRhayanne/GuessNumberGame.git
 cd GuessNumberGame 
 ```
 Backend
-```bash
+```
 cd backend
 npm install
 npm start
+```
+
+Frontend
+Simply open ```frontend/index.html``` in your browser.
