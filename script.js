@@ -90,6 +90,6 @@ document.getElementById("submitBtn").addEventListener("click", handleGuess);
 input.addEventListener("keypress", e => { if (e.key === "Enter") handleGuess(); });
 document.getElementById("resetBtn").addEventListener("click", startNewGame);
 
-// Start game initially
 startNewGame();
+
 
