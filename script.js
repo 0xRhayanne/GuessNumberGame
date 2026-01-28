@@ -32,7 +32,6 @@ function addFeedback(message) {
 
 function handleGuess() {
     const guess = Number(input.value);
-
     if (!guess || guess < 1 || guess > 100) {
         addFeedback("❌ Please enter a valid number.");
         congrats.classList.add("hidden");
@@ -43,7 +42,7 @@ function handleGuess() {
 
     attempts++;
     attemptsLabel.textContent = "Attempts: " + attempts;
-
+    
     if (guess === secretNumber) {
         feedbackMessages = [];
         feedbackDiv.innerHTML = "";
@@ -91,5 +90,6 @@ input.addEventListener("keypress", e => { if (e.key === "Enter") handleGuess(); 
 document.getElementById("resetBtn").addEventListener("click", startNewGame);
 
 startNewGame();
+
 
 
