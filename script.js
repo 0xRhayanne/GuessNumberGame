@@ -89,7 +89,3 @@ input.addEventListener("keypress", e => { if (e.key === "Enter") handleGuess(); 
 document.getElementById("resetBtn").addEventListener("click", startNewGame);
 
 startNewGame();
-
-
-
-
